@@ -1,0 +1,47 @@
+﻿<LabTech_Expansion
+	Version="190.333"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6108</ScriptId>
+				<FolderId>226</FolderId>
+				<ScriptName>Security - Webroot - Install</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBBF94L/kA9oyMO2sWUIiIobBdHiPrQjBiQNaQP277VFoa4OM/eegYGjrdF1uDO90VANHrUANhEu0W3b6HoMmgObTbB/eRtGB3X1iKFrzJCQjQ/2SWSeEMnFmqxKIcsPzydgsz5c62B9f8PQ2daNh/8X3/wQbaPvUmWGK07TIk+pELimRimknPNaFnmTpcL8/EkANn9nuXgDXJYSnd4AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO2b7VPiOBzH39/M/Q/ZF4zrzmIfeFoZ7KyDxe1dhT2Q25s5b9bYRs0YWuwDyP3119bAliKxQiJX715BmhLbT35P3yS2BpaHx8EJDKD2808AtB7bftKImvpD4MG4t4MRsX0gzTu+Qg+OUIC81LVT4l5BkrrwONjv0U3YdTSlJS1fWLrrNMS2dq02alBuyOXqYb1aVhT0qQwbDVSWZdlSD+t2rarA+SjJD5JnltIPTYcbBGi8eItjK6APQL/R653QSdqGrdXVlpRqpt9S0b6hK891g1JLohfS3WoGSiXTrmbatRQf1ws0OXr++JNea7tOgJ0QxdcX32lfzzfxCCc/mX+lPYZjIyeAyctFvelmGtEPKgxMKgOTesjAZHQ7vSagsAAkHoL2DGDHDyAhyH7338BXYeBTKix+7Vtk3YFr1wNtdzQOI+cC+oNFwthZ/menygx0ytN8tIFu6u1zYHS6Q9N8/542LyeQhOgSdPq9M4DiEHcdhzc7inPg2xe9rwNsgyNQsug0YLsEjrsnqVujfqML5uNFrcxQdJhLJwqSl9FQe8lE2ggcR1gn2At9YDz6xR6Ajh1P+ii6Tdnf/1hW9unLqMuTq92HyJvRvsqLJlop0kQrDVYs/pxQ+CzEH9QiYWqw/KHk30fh1w/JuqQVv+uTRlZWnrYwrWn22t/1P9rmcGD0uvSmKpNnpUg8N4ovq5yzPMcWdf2NHLdaJIJ5s5vpWslfF5zdam+H3ZO+x5dWvUi0dlALEGq029cCeYsBVVAx0CjSTO+uGPhUJEyvXgy0e91zozvUc9UBh0VCKagOiOLHNoWAUiitxjTHbEWU1xjX2mKSGE/071/buaxRKZQaYqJcMSpuLKOCIx/MQmmmZ6qsTFDjm0+UQqkhNqneVQCxA6Z0qe8OzQAMgEVw9DCAoAkiYhByl0PKvy2RbLlglcwAh+Wq+SKuiS3k+Aj8imZ7otamuOs0kZO6u3pU4a7QRHJ69YJU7/d7/Xwpi7sAEmpwtSqL5BQ7NvZKFyTwJ9bFGFp38Ab5FzQyizFE7spIKD9WHrsNgnFTkqAzm94iDx1QbBZxQxtODix3JP2NPJdIUx/6I3Qw8vE6AcCeiIuVAbKWLW8WPLlLK6FzoWxhy6sIs3Mgr0HbNLqD82PT3Iiwyl14Ca05WNaehMgfG7RxVeDEn+7UIS4UtD+rcldbqkh+cTWyDmDmTbcmw106iSTzjHRadjHOJsRdOQkNcnUGpyh4oQdkAQmD/OEOnA4N02gfpcom0D47MY2ufjQ40z/ehxgFQLp3gEQ+TOYHLg6IeyNmOrirMJF2yyqfeDs0dyUj1KGZ+pR95Gldqn0pMO6SRmhu2CC3Ul8UlFq5C5nKW0mt3CWKSDLPpNa0suVsQMXamMnhf4PfTJCswYA/6VrMXwD7kSsC4jo3yAMTSLCgSrdSLKXwiu5Y4a4BhBZwz7hjdreJsxUVakNFzO7UmrUQrfnLcHCed5uvUijVkONg9eJQcHxGZHGGCnoIoEfKNrj23FHUPT9VMlcCYgy1UDJAYQKWxRAqlh5gh71l1+MMqlBbGy9x1aj22I1zcpcGb845uUuEHTrn6qkNzrAKtc2Qw0EX6XNXDlrlLhbemoNWd7FxMG/Tf4j8B2E2lcsfOQAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>f275a070-4964-11e8-a77e-000c296d541a</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>226</FolderID>
+					<ParentID>198</ParentID>
+					<Name>Install</Name>
+					<GUID>07f69a4b-126e-4e9d-8869-e6c13a74d01b</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>198</FolderID>
+					<ParentID>0</ParentID>
+					<Name>__Security</Name>
+					<GUID>1ef1f601-8a0e-4f2f-9143-20b79b111458</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
